@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 1000px)
-  .flex-conten{
+  .flex-content{
     flex-direction:column;
   }
   
